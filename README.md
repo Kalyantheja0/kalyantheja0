@@ -1,25 +1,60 @@
 # 👋 Hi there, I'm Kalyan Theja
 
-🎓 **Computer Science Student | Full-Stack Developer | Blockchain & AI Enthusiast**
+Software Developer | API & Automation Engineer | Full-Stack & Cloud Enthusiast
 
-I’m a final-year Computer Science student at VIT, passionate about building innovative products across Web, Blockchain, and AI. I enjoy turning ideas into scalable applications and exploring how emerging tech can solve real-world problems.
+I’m a Computer Science graduate passionate about building scalable applications across API integrations, full-stack development, trading automation, blockchain, and AI. I love solving complex problems, automating workflows, and creating high-performance systems that make an impact.
 
----
+##  What I Work On
 
-## 🔨 Projects
+### 🔥 API Integrations & Automation (Trading + FinTech)
 
-### 🚀 [FurpRewards](https://github.com/Kalyantheja0/FurPrewards)
+-Built Python automation for MT5, Exness, XM, and WinProFX clients
+
+-Created verification bots, real-time workflows, and expiring invite systems
+
+-Integrated REST APIs into production systems with secure flows
+
+### 🧩 Full-Stack Development
+-Developed complete platforms using React, Supabase, Firebase, Node.js
+
+-Built role-based dashboards, live event systems, payment integrations, and analytics
+
+### 🪙 Blockchain & Smart Contracts
+-Created and deployed PepeBrett, a meme token on Base (Ethereum L2)
+
+-100+ transactions in the first week
+
+-Gas-efficient Solidity contract with fixed supply
+
+###  🚀 Featured Projects
+###  FurpRewards
 A gamified platform for **Kick.com** communities that includes:
 - Bonus hunt trackers
 - "Guess the Balance" events
 - Discord login, leaderboards, and stream integrations  
 Built with **Firebase**, **Supabase**, and **Bootstrap** to handle real-time event participation and user engagement.
 
-### 🪙 [PepeBrett Meme Coin](https://github.com/Kalyantheja0/Crypto-Meme-Coin)
+### 🪙 PepeBrett Meme Coin
 A meme coin project inspired by $BRETT, launched on the **Base Chain** using Solidity.  
 - 100+ transactions in the first week  
 - EVM-compatible and community-focused  
 - Secure and gas-optimized smart contract
+
+### 🤖 Trading Automation – Python
+-Automated verification + trading workflows using multiple broker APIs
+
+-MT5 + Exchanges
+
+-Pandas-based validation
+
+-Telegram automation & secure user access
+
+🔗 Private (Available on request)
+
+### 🤖 GenAI Chatbot
+
+Context-aware chatbot using OpenAI APIs, prompt-tuned for emotional response patterns.
+Tech: Python, OpenAI, NLP
 
 ---
 
